@@ -19,5 +19,4 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, lines
-          plugin_languages_ignored: html, css, shell
-          plugin_languages_skipped: lowlighter/metrics
+          plugin_languages_skipped: lowlighter/metrics, Rakantor/StreamSaver.js, Rakantor/WanaKana
