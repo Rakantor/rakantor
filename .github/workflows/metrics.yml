@@ -21,5 +21,7 @@ jobs:
           # plugin_languages_indepth: yes
           # commits_authoring: Rakantor
           # plugin_languages_details: percentage, lines
+          plugin_languages_limit: 7
+          plugin_languages_other: yes
           plugin_languages_ignored: lua
           plugin_languages_skipped: lowlighter/metrics, Rakantor/cors-anywhere, Rakantor/fedora-workstation-configs, Rakantor/mint-cinnamon-configs, Rakantor/StreamSaver.js, Rakantor/WanaKana
