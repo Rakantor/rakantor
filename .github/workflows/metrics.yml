@@ -18,5 +18,6 @@ jobs:
           config_timezone: Europe/Vienna
           plugin_languages: yes
           plugin_languages_indepth: yes
+          commits_authoring: Rakantor
           plugin_languages_details: percentage, lines
-          plugin_languages_skipped: lowlighter/metrics, Rakantor/StreamSaver.js, Rakantor/WanaKana
+          plugin_languages_skipped: lowlighter/metrics, Rakantor/fedora-workstation-configs, Rakantor/mint-cinnamon-configs, Rakantor/StreamSaver.js, Rakantor/WanaKana
