@@ -17,3 +17,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Vienna
           plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_skipped: lowlighter/metrics
