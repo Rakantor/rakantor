@@ -16,11 +16,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
           config_timezone: Europe/Vienna
           plugin_languages: yes
           # plugin_languages_indepth: yes
           # commits_authoring: Rakantor
           # plugin_languages_details: percentage, lines
           plugin_languages_skipped: lowlighter/metrics, Rakantor/cors-anywhere, Rakantor/fedora-workstation-configs, Rakantor/mint-cinnamon-configs, Rakantor/StreamSaver.js, Rakantor/WanaKana
-          plugin_habits: yes
