@@ -23,5 +23,5 @@ jobs:
           # commits_authoring: Rakantor
           # plugin_languages_details: percentage, lines
           plugin_languages_limit: 7
-          plugin_languages_ignored: cmake, shell
+          plugin_languages_ignored: cmake, shell, GDScript
           plugin_languages_skipped: lowlighter/metrics, Rakantor/fedora-workstation-configs, Rakantor/mint-cinnamon-configs, Rakantor/WanaKana, Rakantor/Cashew, Rakantor/cors-anywhere
